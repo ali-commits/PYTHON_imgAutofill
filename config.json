@@ -1,0 +1,15 @@
+{
+  "imagePath": "name tag.jpeg",
+  "font": "Prata-Regular.ttf",
+  "fontSize": 120,
+  "color": [
+    255,
+    0,
+    0
+  ],
+  "align": "center",
+  "xoffset": 0,
+  "yoffset": 50,
+  "inputFilePath": "input.txt",
+  "outputPath": "output"
+}
